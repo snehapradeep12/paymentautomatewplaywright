@@ -29,3 +29,11 @@
 </ul>
 
 ![automateplaywright](https://user-images.githubusercontent.com/69630009/105161711-b270d500-5b37-11eb-85ac-4dfb8b5e8bfb.png)
+
+<ul>
+<li> In comparison to Puppeteer, the performance is as below and thus is nearly similar to that of Playwright.
+</ul>   
+
+![automatepuppeteer](https://user-images.githubusercontent.com/69630009/105178614-451c6e80-5b4e-11eb-8d12-a700607351f9.png)
+
+</ul>
